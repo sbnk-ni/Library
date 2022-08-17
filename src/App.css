@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(161, 161, 168);
+  height: 100%;
+  /* background-image: url("../src/styles/download.jpg"); */
+}
+
